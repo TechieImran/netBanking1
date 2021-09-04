@@ -1,12 +1,12 @@
-[INFO ] 2021-09-03 23:55:20.286 [main] BaseClass - Username is entered
-[INFO ] 2021-09-03 23:55:20.479 [main] BaseClass - password is entered
-[INFO ] 2021-09-03 23:55:21.605 [main] BaseClass - clicked on button
-[INFO ] 2021-09-03 23:55:24.987 [main] BaseClass - Customer name entered
-[INFO ] 2021-09-03 23:55:25.475 [main] BaseClass - Date is entered
-[INFO ] 2021-09-03 23:55:29.006 [main] BaseClass - password is entered
-[INFO ] 2021-09-03 23:55:33.959 [main] BaseClass - clicked on submit
-[INFO ] 2021-09-03 23:55:37.080 [main] BaseClass - got text
-[INFO ] 2021-09-03 23:55:39.099 [main] BaseClass - New Customer added
-[INFO ] 2021-09-03 23:55:49.324 [main] BaseClass - City is edited
-[INFO ] 2021-09-03 23:55:54.031 [main] BaseClass - Successfully edited
-[INFO ] 2021-09-03 23:56:04.024 [main] BaseClass - Deleted successfully
+[INFO ] 2021-09-04 11:23:59.805 [main] BaseClass - Username is entered
+[INFO ] 2021-09-04 11:24:00.265 [main] BaseClass - password is entered
+[INFO ] 2021-09-04 11:24:01.905 [main] BaseClass - clicked on button
+[INFO ] 2021-09-04 11:24:06.193 [main] BaseClass - Customer name entered
+[INFO ] 2021-09-04 11:24:06.920 [main] BaseClass - Date is entered
+[INFO ] 2021-09-04 11:24:10.665 [main] BaseClass - password is entered
+[INFO ] 2021-09-04 11:24:15.631 [main] BaseClass - clicked on submit
+[INFO ] 2021-09-04 11:24:18.778 [main] BaseClass - got text
+[INFO ] 2021-09-04 11:24:20.787 [main] BaseClass - New Customer added
+[INFO ] 2021-09-04 11:24:31.225 [main] BaseClass - City is edited
+[INFO ] 2021-09-04 11:24:35.929 [main] BaseClass - Successfully edited
+[INFO ] 2021-09-04 11:24:46.339 [main] BaseClass - Deleted successfully

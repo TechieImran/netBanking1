@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57345" started-at="2021-09-03T23:55:07 IST" finished-at="2021-09-03T23:56:04 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57345" started-at="2021-09-03T23:55:07 IST" finished-at="2021-09-03T23:56:04 IST">
+      <class name="com.netBanking1.Testcases.TC_Add_Edit_DeleteCustomer_005">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.netBanking1.Testcases.TC_Add_Edit_DeleteCustomer_005@51e2adc7]" name="setup" is-config="true" duration-ms="12246" started-at="2021-09-03T23:55:07 IST" finished-at="2021-09-03T23:55:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addingNewCustomer()[pri:1, instance:com.netBanking1.Testcases.TC_Add_Edit_DeleteCustomer_005@51e2adc7]" name="addingNewCustomer" duration-ms="19130" started-at="2021-09-03T23:55:19 IST" finished-at="2021-09-03T23:55:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingNewCustomer -->
+        <test-method status="PASS" signature="editCustomer()[pri:2, instance:com.netBanking1.Testcases.TC_Add_Edit_DeleteCustomer_005@51e2adc7]" name="editCustomer" duration-ms="14905" started-at="2021-09-03T23:55:39 IST" finished-at="2021-09-03T23:55:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editCustomer -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:3, instance:com.netBanking1.Testcases.TC_Add_Edit_DeleteCustomer_005@51e2adc7]" name="deleteCustomer" duration-ms="9991" started-at="2021-09-03T23:55:54 IST" finished-at="2021-09-03T23:56:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.netBanking1.Testcases.TC_Add_Edit_DeleteCustomer_005@51e2adc7]" name="tearDown" is-config="true" duration-ms="718" started-at="2021-09-03T23:56:04 IST" finished-at="2021-09-03T23:56:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.netBanking1.Testcases.TC_Add_Edit_DeleteCustomer_005 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+com\netBanking1\Testcases\TC_EditCustomer_004.class
+com\netBanking1\Utilities\Reporting.class
+com\netBanking1\PageObjects\AddNewCustomer.class
+com\netBanking1\Utilities\XLUtils.class
+com\netBanking1\Testcases\TC_LoginTest_001.class
+com\netBanking1\Testcases\TC_Add_Edit_Delete_Customer_005.class
+com\netBanking1\Testcases\jenkins_TC_Add_Edit_Delete_Customer_005.class
+com\netBanking1\Testcases\TC_Add_Edit_DeleteCustomer_005.class
+com\netBanking1\Testcases\TC_AddNewCustomer_003.class
+com\netBanking1\PageObjects\DeleteCustomer.class
+com\netBanking1\Testcases\TC_LoginDDT_002.class
+com\netBanking1\Testcases\TC_DeleteCustomer_006.class
+com\netBanking1\PageObjects\EditCustomer.class
+com\netBanking1\Utilities\ReadConfig.class
+com\netBanking1\Testcases\BaseClass.class
+com\netBanking1\PageObjects\LoginPage.class
